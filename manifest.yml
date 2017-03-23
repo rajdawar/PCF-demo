@@ -1,6 +1,6 @@
 ---
 applications:
-- name: nhcsalesmo
+- name: nhcsalesraj
   memory: 512M
   instances: 4
   host: nhcsalesmo
